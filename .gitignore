@@ -17,6 +17,10 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+### MacOS ###
+
+.DS_Store
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
